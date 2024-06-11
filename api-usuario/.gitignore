@@ -1,0 +1,17 @@
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.idea
+*.iws
+*.iml
+*.ipr
+
+# Ignora los archivos de compilación y configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Ignora los archivos generados por Maven
+target/
